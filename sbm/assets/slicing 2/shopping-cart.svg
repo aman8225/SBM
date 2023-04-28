@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.178" height="41.287" viewBox="0 0 41.178 41.287">
+  <g id="shopping-cart" transform="translate(0.001 -0.002)">
+    <path id="Path_140" data-name="Path 140" d="M0,6.86,2.466,0,18.375,7.388" transform="translate(17.701 4.022)" fill="#7dbcd8"/>
+    <path id="Ellipse_26" data-name="Ellipse 26" d="M0,4.956A4.957,4.957,0,1,1,4.957,9.912,4.957,4.957,0,0,1,0,4.956Z" transform="translate(25.401 31.377)" fill="#bce3f5"/>
+    <path id="Ellipse_27" data-name="Ellipse 27" d="M0,4.956A4.957,4.957,0,1,1,4.957,9.912,4.957,4.957,0,0,1,0,4.956Z" transform="translate(10.451 31.377)" fill="#bce3f5"/>
+    <path id="Path_141" data-name="Path 141" d="M11.682,12.2,8.425,2.575H0V0H10.273L14.12,11.379Z" fill="#fff"/>
+    <path id="Path_142" data-name="Path 142" d="M0,0H35.739L28.926,19.113H5.95Z" transform="translate(5.438 10.044)" fill="#fff"/>
+    <g id="Group_43" data-name="Group 43" transform="translate(13.394 14.941)">
+      <path id="Rectangle_74" data-name="Rectangle 74" d="M0,1.293V0H20.592v1.29Z" fill="#008ed0"/>
+      <path id="Rectangle_75" data-name="Rectangle 75" d="M0,1.293V0H13.4v1.29Z" transform="translate(0 4.249)" fill="#008ed0"/>
+    </g>
+  </g>
+</svg>
